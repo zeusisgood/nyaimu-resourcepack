@@ -5,7 +5,7 @@ Only the slimeball changes; everything else stays vanilla.
 
 - Minecraft: **1.12.2** (`pack_format` 3)
 - Texture: `assets/minecraft/textures/items/slimeball.png` (64x64)
-- License: **CC0 1.0** (artwork included)
+- License: **CC0 1.0**
 
 Buy Me! https://zeusisgood.booth.pm/items/5036167
 
@@ -26,7 +26,7 @@ Note: mods that use their own slimeball texture are not affected.
 
 - 対応: **Minecraft 1.12.2**（`pack_format` 3）
 - テクスチャ: `assets/minecraft/textures/items/slimeball.png`（16x16）
-- ライセンス: **CC0 1.0**（イラスト含む）
+- ライセンス: **CC0 1.0**
 
 Buy Me! https://zeusisgood.booth.pm/items/5036167
 
