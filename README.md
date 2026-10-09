@@ -1,4 +1,4 @@
-# nyaimu-slime-1.12.2-resourcepack
+# nyaimu-resourcepack
 ![Nyaimu slimeballs dropped on the ground in Minecraft 1.12.2](images/screenshot.png)
 ![Nyaimu slimeball in the inventory in Minecraft 1.12.2](images/screenshot_inventory.png)
 
@@ -24,7 +24,7 @@ Buy Me! https://booth.pm/ja/items/5036167
 
 ---
 
-# nyaimu-slime-1.12.2-resourcepack (English)
+# nyaimu-resourcepack (English)
 
 Replaces the vanilla **Slimeball** item texture with Nyaimu, the pet slime.
 Only the slimeball changes; everything else stays vanilla.
