@@ -19,8 +19,8 @@
 
 ## ニャイムについて
 
-ペットスライム「ニャイム」はBoothで販売しています。Buy Me!
-https://booth.pm/ja/items/5036167
+ペットスライム「ニャイム」はBoothで販売しています。
+Buy Me! https://booth.pm/ja/items/5036167
 
 ---
 
@@ -43,5 +43,5 @@ Note: mods that use their own slimeball texture are not affected.
 
 ## About Nyaimu
 
-Nyaimu, the pet slime, is sold on Booth. Buy Me!
-https://booth.pm/en/items/5036167
+Nyaimu, the pet slime, is sold on Booth.
+Buy Me! https://booth.pm/en/items/5036167
