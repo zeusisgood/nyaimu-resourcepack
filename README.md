@@ -1,5 +1,6 @@
 # nyaimu-slime-1.12.2-resourcepack
 ![Nyaimu slimeballs dropped on the ground in Minecraft 1.12.2](images/screenshot.png)
+![Nyaimu slimeballs dropped on the ground in Minecraft 1.12.2](images/screenshot_inventory.png)
 
 バニラの「スライムボール」アイテムのテクスチャを、ペットスライム「ニャイム」に差し替えるリソースパックです。
 変わるのはスライムボールだけで、ほかはバニラのままです。
