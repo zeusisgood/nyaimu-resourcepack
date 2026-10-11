@@ -1,6 +1,6 @@
 <img src="pack.png" alt="" width="96" align="right">
 
-# Nyaimu Slimeball Texture（ニャイム スライムボール）
+# Nyaimu Slimeball Texture
 
 [![CurseForge](https://img.shields.io/curseforge/dt/1735468?logo=curseforge&label=CurseForge)](https://www.curseforge.com/minecraft/texture-packs/nyaimu-slimeball-texture)
 
