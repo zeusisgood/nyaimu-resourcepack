@@ -48,7 +48,8 @@
 ## ニャイムについて
 
 ペットスライム「ニャイム」は Booth で販売しています。
-Buy Me! https://booth.pm/ja/items/5036167
+
+<a href="https://booth.pm/ja/items/5036167"><img src="images/BuyMe.png" alt="Buy Me! ニャイムを Booth で見る" width="200"></a>
 
 ## ライセンス
 

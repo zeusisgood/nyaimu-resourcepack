@@ -48,7 +48,8 @@ Both are the same 64x64 image.
 ## About Nyaimu
 
 Nyaimu, the pet slime, is sold on Booth.
-Buy Me! https://booth.pm/en/items/5036167
+
+<a href="https://booth.pm/en/items/5036167"><img src="images/BuyMe.png" alt="Buy Me! See Nyaimu on Booth" width="200"></a>
 
 ## License
 
